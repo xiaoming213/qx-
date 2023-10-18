@@ -1,7 +1,8 @@
 /*
 mt_interval //每次请求间隔,默认0.35
 mt_num //发送多少次请求,默认15
-mtck //帐号token 多个用@隔开 如:token=qweqq@token=qweqweqwe
+mtck token=AgE2Ke3dVkbUdKSp UTs78133pGDpd99zZy1Z btuoa9kurngBdKxB8TCTUcOaseHYhXdeGclllmIBEAAADdGgAAvd1fpWPXGa548
+wkS7Fc8TXuZA0iCNhxepidoWPAC2hOA0 hNnelaBiGXPXeeeFUkMEsPUzeZgvyot0x5IPbCg
 mtgsig //如果请求全是 “抢券请求调用API失败！！“ 请抓包 mtgsig 值填入
 上午 10点 30-15、上午 10点 40-15、上午 10:30 25-12、下午 15点 25-12、下午 16点 30-15、下午 16点 40-15、下午 17点 30-15
 限券：限周一、二下午16:00 26-13、限周一、二下午16:00 36-11、限周一、二上午10:00 26-13、限周一、二上午10:00 36-11
